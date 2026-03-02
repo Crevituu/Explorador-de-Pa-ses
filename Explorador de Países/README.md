@@ -1,4 +1,4 @@
-# 🌍 World Explorer — Explorador de Países
+# World Explorer — Explorador de Países
 
 Aplicação Angular para explorar informações de países do mundo, consumindo a [REST Countries API](https://restcountries.com).
 
@@ -29,15 +29,15 @@ Acesse em `http://localhost:4200`.
 
 ## Funcionalidades
 
-- ✅ Listagem de todos os países com bandeira, capital, população e região
-- ✅ Busca em tempo real por nome (debounce de 400ms)
-- ✅ Filtro por região (África, Américas, Ásia, Europa, Oceania)
-- ✅ Ordenação por nome, população ou área (asc/desc)
-- ✅ Página de detalhe com informações completas
-- ✅ Navegação direta para países fronteiriços
-- ✅ Estados de loading e erro com opção de retry
-- ✅ Design responsivo para mobile
-- ✅ Link para o Google Maps de cada país
+-  Listagem de todos os países com bandeira, capital, população e região
+-  Busca em tempo real por nome (debounce de 400ms)
+-  Filtro por região (África, Américas, Ásia, Europa, Oceania)
+-  Ordenação por nome, população ou área (asc/desc)
+-  Página de detalhe com informações completas
+-  Navegação direta para países fronteiriços
+-  Estados de loading e erro com opção de retry
+-  Design responsivo para mobile
+-  Link para o Google Maps de cada país
 
 ---
 
