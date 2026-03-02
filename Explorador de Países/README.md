@@ -1,4 +1,4 @@
-# World Explorer  Explorador de Países
+# World Explorer
 
 Aplicação Angular para explorar informações de países do mundo, consumindo a [REST Countries API](https://restcountries.com).
 
