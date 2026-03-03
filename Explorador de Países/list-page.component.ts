@@ -23,7 +23,7 @@ import { ErrorStateComponent } from '../../../../shared/components/error-state/e
       <header class="page-header">
         <div class="header-top">
           <div class="brand">
-            <span class="brand-globe">🌍</span>
+            <span class="brand-globe"></span>
             <div>
               <h1 class="brand-title">World Explorer</h1>
               <p class="brand-sub">{{ state.filteredCountries().length }} países</p>
